@@ -95,8 +95,8 @@ function Homepage() {
                 <h3>Hash/Hub</h3>
                 <h1>Github Repository Readme-Md Generator</h1>
                 <div className="button">
-                    <button>Contribute</button>
-                    <button>Give us Star</button>
+                    <a href="https://github.com/vedant-jain03/Repo-Readme-Md-Generator" >Contribute</a>
+                    <a href="https://github.com/vedant-jain03/Repo-Readme-Md-Generator">Give us Star</a>
                 </div>
             </div>
             <div className="sections">

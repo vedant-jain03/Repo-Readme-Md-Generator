@@ -142,7 +142,7 @@ function Code({ logo, heading, tag1, tag2, tag3, tag4, tag5, tag6, feat, overvie
                 </div>
                 } {conc === '' ? null : <p>{`## Conclusion ❤️`}</p>}
                 <p>{conc}</p>
-                <p>Made by ❤️ using [Readme.md Generator]() </p>
+                <p>Made by ❤️ using [Readme.md Generator](https://github.com/vedant-jain03/Repo-Readme-Md-Generator) </p>
             </div>
         </div>
     )
