@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Repo-Readme-Md-Generator/static/css/main.102a416b.chunk.css",
+    "main.js": "/Repo-Readme-Md-Generator/static/js/main.81393e21.chunk.js",
+    "main.js.map": "/Repo-Readme-Md-Generator/static/js/main.81393e21.chunk.js.map",
+    "runtime-main.js": "/Repo-Readme-Md-Generator/static/js/runtime-main.355f3556.js",
+    "runtime-main.js.map": "/Repo-Readme-Md-Generator/static/js/runtime-main.355f3556.js.map",
+    "static/js/2.21ff00e5.chunk.js": "/Repo-Readme-Md-Generator/static/js/2.21ff00e5.chunk.js",
+    "static/js/2.21ff00e5.chunk.js.map": "/Repo-Readme-Md-Generator/static/js/2.21ff00e5.chunk.js.map",
+    "index.html": "/Repo-Readme-Md-Generator/index.html",
+    "static/css/main.102a416b.chunk.css.map": "/Repo-Readme-Md-Generator/static/css/main.102a416b.chunk.css.map",
+    "static/js/2.21ff00e5.chunk.js.LICENSE.txt": "/Repo-Readme-Md-Generator/static/js/2.21ff00e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355f3556.js",
+    "static/js/2.21ff00e5.chunk.js",
+    "static/css/main.102a416b.chunk.css",
+    "static/js/main.81393e21.chunk.js"
+  ]
+}
